@@ -17,7 +17,7 @@ List<Movie> list = [
 
   Movie(
     id: 1,
-    title: "",
+    title: "Bloodshot",
     year: 2020,
     poster: "assets/images/poster_1.jpg",
     backdrop: "assets/images/backdrop_1.jpg",
