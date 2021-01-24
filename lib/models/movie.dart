@@ -34,12 +34,12 @@ List<Movie> list = [
         "image": "assets/images/actor_1.png",
       },
       {
-        "orginalName": "Matt Damon",
+        "orginalName": "Matt\n Damon",
         "movieName": "Carroll",
         "image": "assets/images/actor_2.png",
       },
       {
-        "orginalName": "Christian Bale",
+        "orginalName": "Christian \n Bale",
         "movieName": "Ken Miles",
         "image": "assets/images/actor_3.png",
       },
@@ -86,7 +86,7 @@ List<Movie> list = [
     ],
   ),
   Movie(
-    id: 1,
+    id: 3,
     title: "Onward",
     year: 2020,
     poster: "assets/images/poster_3.jpg",
